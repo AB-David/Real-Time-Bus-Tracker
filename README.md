@@ -12,7 +12,7 @@ This will track in real time Boston's Bus #1 locations, during it's route.
 
 ### *Usage*: 
 1. link to the file 
-2. Wait 15 seconds to see the updated location (Do not change the timeout setting to less than 15 seconds in order Not to be banned from MBTA data servers) 
+2. Wait 15 seconds to see the updated bus location (Do not change the timeout setting to less than 15 seconds, in order not to be banned from MBTA data servers) 
 
 ### *Roadmap*
 Next versions will show the route and number of seats availabe on the bus

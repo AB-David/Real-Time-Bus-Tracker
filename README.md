@@ -5,10 +5,10 @@ This is one of the projects I was working on to get my professional certificate 
 If you are curious about this rigorous program you can learn more about it [here](https://youtu.be/5CiCtj_2Qsg).
 
 ## Real Time Bus Tracking
-This will track in real time Boston's Bus #1 locations, during it's route.
+This will track in real time Boston's Bus #1 locations, during it's route. It enables you to see Boston's bus route number one location on a map in real-time. The bus route's include bus stops between MIT and Harvard. The bus tracker uses MBTA API to retrieve the bus location every 15 seconds. This project is a display of asynchronous programming and map manipulation through Javascript.
 
 # *Demo*
-![demo]
+![](http://shorturl.at/hntS9)
 
 ### *Usage*: 
 1. link to the file 
